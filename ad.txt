@@ -1,3 +1,4 @@
 123467890-=
+#git pull
 #git add --all
 #git commit -am "Your commit message"
