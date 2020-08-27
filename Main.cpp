@@ -8,5 +8,3 @@ int main() {
 
 	return 0;
 }
-#git add --all
-#git commit -am "Your commit message"
